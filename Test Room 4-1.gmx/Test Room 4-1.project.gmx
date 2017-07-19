@@ -22,7 +22,6 @@
       <sprite>sprites\test_player1_crouch</sprite>
       <sprite>sprites\spr_dust</sprite>
       <sprite>sprites\test_mob_2</sprite>
-      <sprite>sprites\test_mob_killme</sprite>
       <sprite>sprites\test_mob_1</sprite>
       <sprite>sprites\test_player_attack2</sprite>
       <sprite>sprites\test_transition_frame</sprite>
