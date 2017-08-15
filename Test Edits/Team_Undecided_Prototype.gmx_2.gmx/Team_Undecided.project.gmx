@@ -39,6 +39,14 @@
     <sprite>sprites\Decor_02</sprite>
     <sprite>sprites\Decor_03</sprite>
     <sprite>sprites\Decor_04</sprite>
+    <sprite>sprites\Dirt_01</sprite>
+    <sprite>sprites\Dirt_02</sprite>
+    <sprite>sprites\Dirt_03</sprite>
+    <sprite>sprites\Grass_01</sprite>
+    <sprite>sprites\Grass_02</sprite>
+    <sprite>sprites\Grass_Platform</sprite>
+    <sprite>sprites\Grass_Platform_L</sprite>
+    <sprite>sprites\Grass_Platform_R_</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -55,29 +63,39 @@
     <object>objects\Crate_Obj</object>
     <object>objects\Switch_Obj</object>
     <object>objects\Switch_Door_Obj</object>
-    <object>objects\Castle_Door</object>
-    <object>objects\Castle_Door_Overgrown</object>
-    <object>objects\Castle_Block_01</object>
-    <object>objects\Castle_Block_02</object>
-    <object>objects\Castle_Block_03</object>
-    <object>objects\Castle_Block_04</object>
-    <object>objects\Castle_Block_05</object>
-    <object>objects\Castle_Block_06</object>
-    <object>objects\Castle_Block_07</object>
-    <object>objects\Castle_Block_08</object>
-    <object>objects\Castle_Block_09</object>
-    <object>objects\Castle_Block_10</object>
-    <object>objects\Castle_Block_11</object>
-    <object>objects\Castle_Block_12</object>
-    <object>objects\Castle_Block_13</object>
-    <object>objects\Castle_Block_14</object>
-    <object>objects\Castle_Block_15</object>
-    <object>objects\Castle_Block_16</object>
-    <object>objects\Castle_Block_17</object>
-    <object>objects\Castle_Decor_01</object>
-    <object>objects\Castle_Decor_02</object>
-    <object>objects\Castle_Decor_03</object>
-    <object>objects\Castle_Decor_04</object>
+    <objects name="Castle">
+      <object>objects\Castle_Decor_04</object>
+      <object>objects\Castle_Decor_03</object>
+      <object>objects\Castle_Decor_02</object>
+      <object>objects\Castle_Decor_01</object>
+      <object>objects\Castle_Block_16</object>
+      <object>objects\Castle_Block_17</object>
+      <object>objects\Castle_Block_15</object>
+      <object>objects\Castle_Block_14</object>
+      <object>objects\Castle_Block_13</object>
+      <object>objects\Castle_Block_12</object>
+      <object>objects\Castle_Block_11</object>
+      <object>objects\Castle_Block_10</object>
+      <object>objects\Castle_Block_09</object>
+      <object>objects\Castle_Block_08</object>
+      <object>objects\Castle_Block_07</object>
+      <object>objects\Castle_Block_06</object>
+      <object>objects\Castle_Block_05</object>
+      <object>objects\Castle_Block_04</object>
+      <object>objects\Castle_Block_03</object>
+      <object>objects\Castle_Block_02</object>
+      <object>objects\Castle_Block_01</object>
+      <object>objects\Castle_Door</object>
+      <object>objects\Castle_Door_Overgrown</object>
+    </objects>
+    <object>objects\Garden_Block_02</object>
+    <object>objects\Garden_Block_03</object>
+    <object>objects\Garden_Block_04</object>
+    <object>objects\Garden_Block_05</object>
+    <object>objects\Garden_Platform_01</object>
+    <object>objects\Grass_Platform_01_L</object>
+    <object>objects\Grass_Platform_01_R</object>
+    <object>objects\Garden_Block_01</object>
   </objects>
   <rooms name="rooms">
     <rooms name="Gar_Fence">

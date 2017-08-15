@@ -51,18 +51,6 @@
     <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
   </views>
   <instances>
-    <instance objName="Dirt_flr_obj" x="768" y="704" name="inst_23AFE40C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Dirt_flr_obj" x="704" y="704" name="inst_C0767527" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Dirt_flr_obj" x="640" y="704" name="inst_0EEF26FA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Dirt_flr_obj" x="576" y="704" name="inst_8332CB7B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Dirt_flr_obj" x="512" y="704" name="inst_1443B55D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Dirt_flr_obj" x="448" y="704" name="inst_26F71274" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Dirt_flr_obj" x="384" y="704" name="inst_04F0295F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Dirt_flr_obj" x="224" y="704" name="inst_A5112006" locked="0" code="" scaleX="2.5" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Dirt_flr_obj" x="64" y="0" name="inst_7CA18789" locked="0" code="" scaleX="2.5" scaleY="12.1904764175415" colour="4294967295" rotation="0"/>
-    <instance objName="Dirt_flr_obj" x="0" y="704" name="inst_27291191" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Dirt_flr_obj" x="0" y="640" name="inst_E2718CD6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Dirt_flr_obj" x="0" y="576" name="inst_47D5CE74" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Dirt_flr_obj" x="0" y="512" name="inst_56CDCD4A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Dirt_flr_obj" x="0" y="448" name="inst_2B7DFBAF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Dirt_flr_obj" x="0" y="384" name="inst_A6B7C0E0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -162,13 +150,9 @@
     <instance objName="Castle_Block_01" x="928" y="32" name="inst_EC39C249" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Castle_Block_01" x="896" y="32" name="inst_5C89ECF1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Castle_Block_01" x="896" y="0" name="inst_5962F633" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Castle_Block_14" x="832" y="704" name="inst_A44E045B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Castle_Block_14" x="928" y="704" name="inst_CC4A8327" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Castle_Block_14" x="832" y="512" name="inst_3A7F3B6B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Castle_Block_14" x="928" y="512" name="inst_69982607" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Castle_Block_09" x="832" y="736" name="inst_3738959E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Castle_Block_09" x="864" y="736" name="inst_FD6F88F3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Castle_Block_09" x="896" y="736" name="inst_D792F352" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Castle_Block_09" x="928" y="736" name="inst_FA1E1A9D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Castle_Block_09" x="960" y="736" name="inst_AA562064" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Castle_Block_09" x="992" y="736" name="inst_C2EED4E3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -219,6 +203,37 @@
     <instance objName="Castle_Block_02" x="800" y="0" name="inst_C442B991" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Castle_Decor_01" x="864" y="0" name="inst_B6CE34F2" locked="0" code="" scaleX="2.46153855323792" scaleY="3.62264156341553" colour="4294967295" rotation="0"/>
     <instance objName="Castle_Door" x="928" y="544" name="inst_8E60A698" locked="0" code="" scaleX="6" scaleY="5" colour="4294967295" rotation="0"/>
+    <instance objName="Garden_Block_01" x="800" y="704" name="inst_E39CAC02" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Garden_Block_01" x="864" y="704" name="inst_4E748CBB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Garden_Block_01" x="64" y="576" name="inst_FDE7C181" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Garden_Block_02" x="0" y="576" name="inst_D79C4F52" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Garden_Block_02" x="0" y="640" name="inst_11447432" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Garden_Block_02" x="64" y="640" name="inst_77FC1918" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Garden_Block_02" x="64" y="704" name="inst_135CD8C1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Garden_Block_02" x="0" y="704" name="inst_FB2ACDF8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Garden_Block_01" x="128" y="608" name="inst_5569237B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Garden_Block_01" x="160" y="640" name="inst_5923B94B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Garden_Block_01" x="192" y="672" name="inst_BB7C40C0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Garden_Block_02" x="128" y="672" name="inst_44170706" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Garden_Block_02" x="192" y="704" name="inst_95D6972F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Garden_Block_01" x="256" y="672" name="inst_6FDC5845" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Garden_Block_01" x="320" y="704" name="inst_794D5ADE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Garden_Block_01" x="768" y="704" name="inst_8A8FB7E5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Garden_Block_02" x="256" y="704" name="inst_08D07794" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Garden_Block_02" x="128" y="704" name="inst_ED90CFC1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Garden_Block_04" x="384" y="704" name="inst_B2856903" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Garden_Block_04" x="640" y="704" name="inst_61294D9C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Garden_Block_04" x="704" y="704" name="inst_F67826CD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Garden_Block_02" x="512" y="704" name="inst_946F42E5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Garden_Block_02" x="512" y="640" name="inst_048EF4E4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Garden_Block_01" x="448" y="640" name="inst_246456C0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Garden_Block_02" x="448" y="704" name="inst_7B83A9BC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Garden_Block_02" x="576" y="704" name="inst_2C94D7D1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Garden_Block_05" x="512" y="576" name="inst_688CB1C2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Garden_Block_03" x="576" y="640" name="inst_75210ED4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Grass_Platform_01_L" x="480" y="576" name="inst_EFF1E998" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Grass_Platform_01_R" x="544" y="576" name="inst_4136A2B1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Garden_Platform_01" x="512" y="512" name="inst_BD90FB60" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
