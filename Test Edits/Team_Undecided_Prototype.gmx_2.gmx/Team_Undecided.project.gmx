@@ -47,6 +47,18 @@
     <sprite>sprites\Grass_Platform</sprite>
     <sprite>sprites\Grass_Platform_L</sprite>
     <sprite>sprites\Grass_Platform_R_</sprite>
+    <sprite>sprites\Hive_01</sprite>
+    <sprite>sprites\Hive_02</sprite>
+    <sprite>sprites\Grass_Slope_L</sprite>
+    <sprite>sprites\Grass_Slope_R</sprite>
+    <sprite>sprites\Hive_Slope_L</sprite>
+    <sprite>sprites\Hive_Slope_R</sprite>
+    <sprite>sprites\Hive_Platform</sprite>
+    <sprite>sprites\Hive_Platform_L</sprite>
+    <sprite>sprites\Hive_Platform_R</sprite>
+    <sprite>sprites\Glass_Platform</sprite>
+    <sprite>sprites\Glass_Platform_L</sprite>
+    <sprite>sprites\Glass_Platform_R</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -88,14 +100,28 @@
       <object>objects\Castle_Door</object>
       <object>objects\Castle_Door_Overgrown</object>
     </objects>
-    <object>objects\Garden_Block_02</object>
-    <object>objects\Garden_Block_03</object>
-    <object>objects\Garden_Block_04</object>
-    <object>objects\Garden_Block_05</object>
-    <object>objects\Garden_Platform_01</object>
-    <object>objects\Grass_Platform_01_L</object>
-    <object>objects\Grass_Platform_01_R</object>
-    <object>objects\Garden_Block_01</object>
+    <objects name="Garden">
+      <object>objects\Garden_Block_01</object>
+      <object>objects\Garden_Block_02</object>
+      <object>objects\Garden_Block_03</object>
+      <object>objects\Garden_Block_04</object>
+      <object>objects\Garden_Block_05</object>
+      <object>objects\Garden_Slope_02</object>
+      <object>objects\Garden_Slope_01</object>
+      <object>objects\Garden_Platform_01</object>
+      <object>objects\Grass_Platform_01_L</object>
+      <object>objects\Grass_Platform_01_R</object>
+      <object>objects\Glass_Platform_01_L</object>
+      <object>objects\Glass_Platform_01_R</object>
+      <object>objects\Glass_Platform_01</object>
+      <object>objects\Hive_Slope_01</object>
+      <object>objects\Hive_Slope_02</object>
+      <object>objects\Hive_Block_01</object>
+      <object>objects\Hive_Platform_01_R</object>
+      <object>objects\Hive_Platform_01_L</object>
+      <object>objects\Hive_Platform_01</object>
+      <object>objects\Hive_Block_02</object>
+    </objects>
   </objects>
   <rooms name="rooms">
     <rooms name="Gar_Fence">
