@@ -101,16 +101,11 @@
     <instance objName="Hive_Block_01" x="256" y="512" name="inst_9E470F74" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Glass_Platform_01" x="448" y="448" name="inst_1BE32C28" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Glass_Platform_01" x="512" y="448" name="inst_DD4F1E45" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Glass_Platform_01" x="576" y="448" name="inst_C591F2A4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Glass_Platform_01" x="640" y="448" name="inst_63F9E72E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Glass_Platform_01" x="704" y="448" name="inst_F7BE31AD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Glass_Platform_01" x="608" y="544" name="inst_11E50201" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Glass_Platform_01" x="672" y="544" name="inst_69543673" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Glass_Platform_01_L" x="416" y="448" name="inst_2FD9446A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Glass_Platform_01_L" x="576" y="544" name="inst_3F9372B2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Glass_Platform_01_L" x="448" y="544" name="inst_CD8ED790" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Glass_Platform_01_L" x="416" y="384" name="inst_99F6FB09" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Glass_Platform_01_R" x="544" y="384" name="inst_B59796A3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Glass_Platform_01_R" x="800" y="544" name="inst_F4F5BC5B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Hive_Platform_01" x="192" y="416" name="inst_D25E264D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Hive_Platform_01" x="256" y="416" name="inst_95D54991" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -120,6 +115,52 @@
     <instance objName="Hive_Platform_01_L" x="352" y="384" name="inst_B6097344" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Garden_Slope_01" x="160" y="352" name="inst_67D6309B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Garden_Slope_02" x="256" y="352" name="inst_BA1D775F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Kennel_Block_01" x="832" y="352" name="inst_D82143AB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Kennel_Block_01" x="896" y="352" name="inst_D749E6FA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Kennel_Block_01" x="832" y="416" name="inst_4626168B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Kennel_Block_01" x="896" y="416" name="inst_FBA4D58D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Kennel_Block_01" x="768" y="288" name="inst_570B089E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Kennel_Block_01" x="768" y="352" name="inst_EFAEBDCA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Kennel_Block_01" x="960" y="224" name="inst_9E21ECA8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Kennel_Block_01" x="960" y="288" name="inst_30B0426D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Kennel_Block_01" x="960" y="352" name="inst_AC35A85A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Kennel_Block_01" x="960" y="416" name="inst_CB666E05" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Kennel_Block_01" x="832" y="160" name="inst_F3FFFEAC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Kennel_Block_01" x="896" y="160" name="inst_7CA93064" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Kennel_Block_01" x="960" y="160" name="inst_3C409878" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Kennel_Block_01" x="768" y="160" name="inst_1E2BBF17" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Kennel_Block_01" x="768" y="96" name="inst_A798FA38" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Kennel_Block_01" x="832" y="96" name="inst_0449593E" locked="0" code="" scaleX="0.97000002861023" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Kennel_Block_01" x="896" y="96" name="inst_742DF8B9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Kennel_Block_01" x="960" y="96" name="inst_A09AFF9A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Kennel_Block_01" x="768" y="32" name="inst_9C9BC5DA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Kennel_Block_01" x="832" y="32" name="inst_971EC5FF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Kennel_Block_01" x="896" y="32" name="inst_5A02B40F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Kennel_Block_01" x="960" y="32" name="inst_88EC0D63" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Kennel_Platform_01" x="704" y="384" name="inst_C8CD298A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Kennel_Platform_01" x="640" y="384" name="inst_624D3928" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Kennel_Platform_01" x="448" y="384" name="inst_18F7B68A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Kennel_Block_01" x="768" y="-32" name="inst_72603F0D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Kennel_Block_01" x="832" y="-32" name="inst_0EFBC4BF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Kennel_Block_01" x="896" y="-32" name="inst_435766D2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Kennel_Block_01" x="960" y="-32" name="inst_8C0AAA08" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Kennel_Block_01" x="704" y="320" name="inst_42A4FFA4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Kennel_Platform_01_L" x="672" y="320" name="inst_D749B9B6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Kennel_Slope_01_L" x="448" y="320" name="inst_209BDAAE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Kennel_Slope_01_R" x="608" y="320" name="inst_AE7A8A59" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Kennel_Block_01" x="512" y="320" name="inst_10368751" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Kennel_Block_01" x="544" y="320" name="inst_C64199FD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Kennel_Platform_01" x="576" y="384" name="inst_34FAFB15" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Kennel_Platform_01" x="512" y="384" name="inst_C87667EF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Kennel_Platform_01" x="704" y="192" name="inst_E581DB70" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Kennel_Platform_01" x="640" y="192" name="inst_5D9DBEB8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Kennel_Platform_01" x="576" y="192" name="inst_DD0898F9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Kennel_Platform_01" x="512" y="96" name="inst_39733A32" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Kennel_Platform_01" x="448" y="96" name="inst_C668DEFB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Kennel_Platform_01" x="576" y="96" name="inst_E7A4AE96" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Kennel_Platform_01_L" x="416" y="96" name="inst_CD73017B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Kennel_Platform_01_L" x="544" y="192" name="inst_F43AA605" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Kennel_Platform_01_R" x="608" y="96" name="inst_033E1D16" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

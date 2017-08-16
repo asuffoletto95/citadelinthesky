@@ -59,6 +59,12 @@
     <sprite>sprites\Glass_Platform</sprite>
     <sprite>sprites\Glass_Platform_L</sprite>
     <sprite>sprites\Glass_Platform_R</sprite>
+    <sprite>sprites\Kennel_Block</sprite>
+    <sprite>sprites\Kennel_Platform</sprite>
+    <sprite>sprites\Kennel_Platform_L</sprite>
+    <sprite>sprites\Kennel_Platform_R</sprite>
+    <sprite>sprites\Kennel_Slope_L</sprite>
+    <sprite>sprites\Kennel_Slope_R</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -117,10 +123,16 @@
       <object>objects\Hive_Slope_01</object>
       <object>objects\Hive_Slope_02</object>
       <object>objects\Hive_Block_01</object>
+      <object>objects\Hive_Block_02</object>
       <object>objects\Hive_Platform_01_R</object>
       <object>objects\Hive_Platform_01_L</object>
       <object>objects\Hive_Platform_01</object>
-      <object>objects\Hive_Block_02</object>
+      <object>objects\Kennel_Block_01</object>
+      <object>objects\Kennel_Platform_01</object>
+      <object>objects\Kennel_Platform_01_L</object>
+      <object>objects\Kennel_Slope_01_L</object>
+      <object>objects\Kennel_Slope_01_R</object>
+      <object>objects\Kennel_Platform_01_R</object>
     </objects>
   </objects>
   <rooms name="rooms">
