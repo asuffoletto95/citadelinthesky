@@ -2,7 +2,7 @@
 scr_get_input();
 
 //React to inputs
-
+image_speed = 1;
 movespeed = 2;
 move = key_left + key_right;
 hsp = move * movespeed; 
@@ -68,14 +68,14 @@ else
 }
 
 if (place_meeting(x,y+1,obj_Test_Floor)and hsp = 0 and key_down = 1)//checks if players grounded
-{
-    sprite_index = test_player1_crouch;
-    if(image_index = 9 and !keyboard_check_released(vk_down))
-    {
-        image_speed = 0;
-     }
-     else if(keyboard_check_released(vk_down)) image_speed = 1;
-}
+{  
+   
+    state = scr_crouch_state;
+ 
+      }
+    
+      
+
 
 
 //weapon swapping
@@ -102,7 +102,17 @@ if(place_meeting(x,y+1,obj_Test_Floor)) //checks if player is grounded first
                 }
         }
             
- 
+if(place_meeting(x,y+1,obj_Test_Floor))//checks if player is grounded first
+{
+        if(key_wavedash){
+           if(obj_Test_Player1.candash = 1){ 
+          state = scr_dash_state;
+          alarm[0] = room_speed/6;
+          }
+         }   
+           
+             }
+
 
 
 
