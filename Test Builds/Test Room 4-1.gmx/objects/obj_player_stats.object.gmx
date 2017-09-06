@@ -26,10 +26,13 @@
           <argument>
             <kind>1</kind>
             <string>/// Initialize the player stats
-hp = 10;
-maxhp = hp;
-mana = 20;
-maxmana = mana;
+hp = obj_Test_Player1.hp;
+maxhp = obj_Test_Player1.maxhp;
+mana = obj_Test_Player1.mana;
+maxmana = obj_Test_Player1.maxmana;
+stamina = obj_Test_Player1.stamina;      
+maxstamina = obj_Test_Player1.maxstamina;
+playerexp = 0;
 level = 1;
 </string>
           </argument>
@@ -56,6 +59,7 @@ level = 1;
             <string>/// draw the players stats  
 
 draw_set_color(c_white);
+draw_text(32,160, "Stamina:  " + string(stamina) + "/" + string(maxstamina));
 draw_text(32,32, "Health:  " + string(hp) + "/" + string(maxhp));
 draw_text(32,64, "Mana:    " + string(mana) + "/" + string(maxmana));
 

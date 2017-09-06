@@ -14,12 +14,16 @@
       <sprite>sprites\spr_melee_icon</sprite>
       <sprite>sprites\spr_ranged_icon</sprite>
     </sprites>
+    <sprites name="drops">
+      <sprite>sprites\exp_orb</sprite>
+    </sprites>
     <sprites name="Test Player Sprites">
       <sprite>sprites\test_player1_start_sprint</sprite>
       <sprite>sprites\test_player1_fall</sprite>
       <sprite>sprites\test_player1_idle</sprite>
       <sprite>sprites\test_player_collision</sprite>
       <sprite>sprites\test_player1_crouch</sprite>
+      <sprite>sprites\test_player1_crouch2</sprite>
       <sprite>sprites\spr_dust</sprite>
       <sprite>sprites\test_mob_2</sprite>
       <sprite>sprites\test_mob_1</sprite>
@@ -56,9 +60,13 @@
     <script>scripts\scr_ground_mob_idle_state.gml</script>
     <script>scripts\scr_ground_mob_rest_state.gml</script>
     <script>scripts\scr_general_collisions.gml</script>
-    <script>scripts\scr_idle_state.gml</script>
     <script>scripts\scr_grav.gml</script>
-    <script>scripts\scr_move_state.gml</script>
+    <scripts name="states">
+      <script>scripts\scr_move_state.gml</script>
+      <script>scripts\scr_crouch_state.gml</script>
+      <script>scripts\scr_dash_state.gml</script>
+      <script>scripts\scr_idle_state.gml</script>
+    </scripts>
     <script>scripts\scr_attack.gml</script>
     <script>scripts\scr_death.gml</script>
     <script>scripts\scr_exit_game.gml</script>
@@ -93,6 +101,10 @@
       <object>objects\obj_player_stats</object>
       <object>objects\obj_input</object>
       <object>objects\obj_view</object>
+      <object>objects\obj_dash_effect</object>
+    </objects>
+    <objects name="drops">
+      <object>objects\obj_exp</object>
     </objects>
     <objects name="mob">
       <object>objects\obj_flying_mob</object>
