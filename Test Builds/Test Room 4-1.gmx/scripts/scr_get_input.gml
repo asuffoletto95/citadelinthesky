@@ -8,7 +8,7 @@ key_down = keyboard_check(vk_down);
 key_attack = keyboard_check_pressed(ord('Z'));
 key_pause = keyboard_check_pressed(ord('P'));
 key_weaponswap = keyboard_check_pressed(ord('X'));
-
+key_wavedash = keyboard_check_pressed(ord('C'));
 
 movespeed = 2;
 move = key_left + key_right;
