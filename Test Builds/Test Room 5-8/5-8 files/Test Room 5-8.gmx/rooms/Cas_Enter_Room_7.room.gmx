@@ -300,8 +300,8 @@
     <instance objName="Gar_flr_ramp_obj_R" x="1792" y="416" name="inst_CB2DD58A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Gar_flr_ramp_obj_R" x="1856" y="384" name="inst_4B809DB5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Gar_flr_ramp_obj_R" x="1920" y="352" name="inst_1B3168B8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Castle_Decor_01" x="544" y="128" name="inst_43FC8DEF" locked="0" code="" scaleX="2.46153855323792" scaleY="2.41509437561035" colour="4294967295" rotation="0"/>
-    <instance objName="Castle_Decor_01" x="1408" y="128" name="inst_94DC9726" locked="0" code="" scaleX="2.46153855323792" scaleY="2.41509437561035" colour="4294967295" rotation="0"/>
+    <instance objName="Castle_Decor_01" x="544" y="128" name="inst_43FC8DEF" locked="0" code="" scaleX="2.46153855323791" scaleY="2.41509437561035" colour="4294967295" rotation="0"/>
+    <instance objName="Castle_Decor_01" x="1408" y="128" name="inst_94DC9726" locked="0" code="" scaleX="2.46153855323791" scaleY="2.41509437561035" colour="4294967295" rotation="0"/>
     <instance objName="Castle_Decor_04" x="608" y="128" name="inst_0DE5E961" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Castle_Decor_04" x="1408" y="128" name="inst_F560E502" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Castle_Decor_04" x="992" y="128" name="inst_AC2548FA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
