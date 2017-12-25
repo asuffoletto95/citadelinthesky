@@ -116,7 +116,7 @@ if(place_meeting(x,y+1,obj_Test_Floor)) //checks if player is grounded first
                 }
         
 //wave dashing            
-        if(key_wavedash && (obj_Test_Player1.canstamina = 1)){
+        if(key_wavedash && (obj_Test_Player1.canstamina = 1)&&candash = 1){
        
           state = scr_dash_state;
           alarm[0] = room_speed/6;
@@ -125,11 +125,12 @@ if(place_meeting(x,y+1,obj_Test_Floor)) //checks if player is grounded first
            
              
 //mask ability usage
-if(key_mask_ability)
-{
-obj_Test_Player1.maskon = 1;
-instance_create(x,y,obj_shield_mask);
 
+if(key_mask_ability && !instance_exists(obj_shield_mask))
+{
+    
+        obj_Test_Player1.maskon = 1;
+        instance_create(x,y,obj_shield_mask);
 }
 
 

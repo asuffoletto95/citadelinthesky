@@ -147,9 +147,11 @@ stamina = Approach(stamina,maxstamina,0.05)
 
 
 if(key_mask_ability){
-mrecharge = 0;
-mana -=0.05;
-alarm[0] = room_speed*2;
+    if(instance_exists(obj_shield_mask)){
+    mrecharge = 0;
+    mana -=0.05;
+    alarm[0] = room_speed*2;
+    }
 }
 
 if(key_wavedash){

@@ -155,6 +155,7 @@
     <objects name="room">
       <object>objects\obj_fadeout</object>
       <object>objects\obj_checkpoint</object>
+      <object>objects\obj_minimap</object>
       <object>objects\obj_spawn</object>
       <object>objects\obj_door</object>
       <object>objects\obj_Test_Floor</object>

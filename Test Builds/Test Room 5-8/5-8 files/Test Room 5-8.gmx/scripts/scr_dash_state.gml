@@ -11,4 +11,4 @@ dash.sprite_index = sprite_index;
 dash.image_index = image_index;
 dash.image_xscale = image_xscale;
 obj_Test_Player1.candash = 0;
-
+alarm[1] = room_speed/2;

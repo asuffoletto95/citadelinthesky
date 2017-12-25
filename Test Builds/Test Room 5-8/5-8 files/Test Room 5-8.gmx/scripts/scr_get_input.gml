@@ -9,7 +9,7 @@ key_attack = keyboard_check_pressed(ord('Z'));
 key_pause = keyboard_check_pressed(ord('P'));
 key_weaponswap = keyboard_check_pressed(ord('X'));
 key_wavedash = keyboard_check_pressed(ord('C'));
-key_mask_ability = keyboard_check_pressed(ord('A'));
+key_mask_ability = keyboard_check(ord('A'));
 
 
 movespeed = 2;

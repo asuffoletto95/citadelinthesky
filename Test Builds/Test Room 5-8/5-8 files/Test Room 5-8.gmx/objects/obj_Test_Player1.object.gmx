@@ -183,10 +183,10 @@ if(ComboCount &gt;= array_length_1d(Combo))
     ComboCount = 0
 }
 
-if(key_wavedash){
-candash = 0;
-alarm[1] = room_speed/2;
-}
+//if(key_wavedash){
+//candash = 0;
+//alarm[1] = room_speed/2;
+//}
 
 </string>
           </argument>
